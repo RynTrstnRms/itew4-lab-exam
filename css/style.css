@@ -41,7 +41,7 @@ html {
 
 .hero-section {
     position: relative;
-    background: url('/resources/images/banner.jpg') no-repeat center center/cover;
+    background: url('resources/images/banner.jpg') no-repeat center center/cover;
     background-image: linear-gradient(rgba(0, 0, 0, 0.2),
             rgba(0, 0, 0, 1)), url(/resources/images/banner.jpg);
     text-align: left;
